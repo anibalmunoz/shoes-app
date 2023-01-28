@@ -1,6 +1,6 @@
 # shoes_app
 
-A shoes delivery App
+A shoes sale App
 
 ## Getting Started
 
